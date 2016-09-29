@@ -2,5 +2,9 @@
 module.exports.verbs = [
     'run',
     'jump',
-    'code'
+    'code',
+    'skip',
+    'cry',
+    'sleep',
+    'poop',
 ];
